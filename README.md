@@ -1,1 +1,1 @@
-"# 4222301026_priscillatiara-machine-learning" 
+TUGAS WEEK 2 _ MACHINE LEARNING 
